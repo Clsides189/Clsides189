@@ -3,7 +3,7 @@
 I am a junior software developer exploring game development, open-source projects, and creative coding!
 
 ### 🔧 Skills 
-- **Languages**: C++, Java, C#, Python
+- **Languages**: C++, Java, C#, Python, JavaScript
 - **Tools**: Linux, Unity, Visual Studio, Git, SQL, basic AI tools
 - **Soft Skills**: Project management, documentation, team leadership, self-motivation, and adaptability  
 - **Interests**: Game design, scripting, automation, data visualization, continuous learning
