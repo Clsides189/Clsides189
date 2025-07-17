@@ -11,7 +11,7 @@ I am a junior software developer exploring game development, open-source project
 ### 🚧 What I'm Working On 
 - Building my own VR game
 - Uploading and improving older projects
-- 3D game 
+- Building a 3D Horror game 
 
 ### 🥇 Degrees & Certifications
 - AAS in Computer Programming & Development (4.0 GPA)
