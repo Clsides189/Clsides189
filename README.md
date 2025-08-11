@@ -1,17 +1,17 @@
 ## 👋🌎 Hello World & Welcome! 
 
-I am a junior software developer exploring game development, open-source projects, and creative coding!
+I am a junior game and software developer exploring  open-source projects, and creative coding!
 
 ### 🔧 Skills 
 - **Languages**: C++, Java, C#, Python, JavaScript
-- **Tools**: Unity, Visual Studio, Git, SQL, HTML, CSS, Linux, basic AI tools
+- **Tools**: Unity, Blender, Visual Studio, Git, SQL, HTML, CSS, Linux, basic AI tools
 - **Soft Skills**: Project management, documentation, team leadership, self-motivation, communication, and adaptability  
 - **Interests**: Game design, scripting, automation, data visualization, continuous learning
 
 ### 🚧 What I'm Working On 
 - Building my own VR game
 - Uploading and improving older projects
-- Building a 3D Horror game 
+- Building a 3D Horror game: From The Depths
 
 ### 🥇 Degrees & Certifications
 - AAS in Computer Programming & Development (4.0 GPA)
